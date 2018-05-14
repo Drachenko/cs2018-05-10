@@ -22,8 +22,4 @@ class TaskC1 {
         System.out.println("Вывод:");
         System.out.println("Sum"+" "+"="+" "+c);
     }
-
-
-
-
 }
